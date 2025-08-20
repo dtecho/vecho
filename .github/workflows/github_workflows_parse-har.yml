@@ -1,0 +1,63 @@
+name: Parse HAR File
+
+on:
+  workflow_dispatch:
+    inputs:
+      har_file_path:
+        description: 'Path to the HAR file to parse'
+        required: true
+        default: 'www.vectal.ai.har'
+  push:
+    paths:
+      - '**.har'
+
+jobs:
+  parse-har:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+      
+      - name: Make script executable
+        run: chmod +x har-splitter.js
+      
+      - name: Find HAR files
+        id: find_har
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "::set-output name=har_files::${{ github.event.inputs.har_file_path }}"
+          else
+            # Find HAR files that were changed in this push
+            HAR_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep '\.har$' | tr '\n' ' ')
+            echo "::set-output name=har_files::$HAR_FILES"
+          fi
+      
+      - name: Parse HAR files
+        run: |
+          HAR_FILES="${{ steps.find_har.outputs.har_files }}"
+          if [[ -z "$HAR_FILES" ]]; then
+            echo "No HAR files found to process."
+            exit 0
+          fi
+          
+          for HAR_FILE in $HAR_FILES; do
+            if [[ -f "$HAR_FILE" ]]; then
+              echo "Processing $HAR_FILE..."
+              ./har-splitter.js "$HAR_FILE"
+            else
+              echo "File not found: $HAR_FILE"
+            fi
+          done
+      
+      - name: Archive extracted files
+        uses: actions/upload-artifact@v3
+        with:
+          name: extracted-har-data
+          path: '*_extracted/'
+          retention-days: 5
