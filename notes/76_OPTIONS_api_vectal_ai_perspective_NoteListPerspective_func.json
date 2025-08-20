@@ -1,0 +1,191 @@
+{
+  "_initiator": {
+    "type": "preflight",
+    "url": "https://api.vectal.ai/perspective/NoteListPerspective/func/getUpcomingReminders",
+    "requestId": "14616.175"
+  },
+  "_priority": "High",
+  "_resourceType": "preflight",
+  "cache": {},
+  "request": {
+    "method": "OPTIONS",
+    "url": "https://api.vectal.ai/perspective/NoteListPerspective/func/getUpcomingReminders",
+    "httpVersion": "h3",
+    "headers": [
+      {
+        "name": ":authority",
+        "value": "api.vectal.ai"
+      },
+      {
+        "name": ":method",
+        "value": "OPTIONS"
+      },
+      {
+        "name": ":path",
+        "value": "/perspective/NoteListPerspective/func/getUpcomingReminders"
+      },
+      {
+        "name": ":scheme",
+        "value": "https"
+      },
+      {
+        "name": "accept",
+        "value": "*/*"
+      },
+      {
+        "name": "accept-encoding",
+        "value": "gzip, deflate, br"
+      },
+      {
+        "name": "accept-language",
+        "value": "en-US"
+      },
+      {
+        "name": "access-control-request-headers",
+        "value": "authorization,content-type"
+      },
+      {
+        "name": "access-control-request-method",
+        "value": "POST"
+      },
+      {
+        "name": "origin",
+        "value": "https://www.vectal.ai"
+      },
+      {
+        "name": "referer",
+        "value": "https://www.vectal.ai/"
+      },
+      {
+        "name": "sec-fetch-dest",
+        "value": "empty"
+      },
+      {
+        "name": "sec-fetch-mode",
+        "value": "cors"
+      },
+      {
+        "name": "sec-fetch-site",
+        "value": "same-site"
+      },
+      {
+        "name": "user-agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Noi/0.4.0 Chrome/122.0.6261.130 Electron/29.1.5 Safari/537.36"
+      }
+    ],
+    "queryString": [],
+    "cookies": [],
+    "headersSize": -1,
+    "bodySize": 0
+  },
+  "response": {
+    "status": 200,
+    "statusText": "",
+    "httpVersion": "h3",
+    "headers": [
+      {
+        "name": "Content-Security-Policy",
+        "value": ""
+      },
+      {
+        "name": "access-control-allow-credentials",
+        "value": "true"
+      },
+      {
+        "name": "access-control-allow-headers",
+        "value": "authorization,content-type"
+      },
+      {
+        "name": "access-control-allow-methods",
+        "value": "DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT"
+      },
+      {
+        "name": "access-control-allow-origin",
+        "value": "https://www.vectal.ai"
+      },
+      {
+        "name": "access-control-max-age",
+        "value": "600"
+      },
+      {
+        "name": "alt-svc",
+        "value": "h3=\":443\"; ma=86400"
+      },
+      {
+        "name": "cf-cache-status",
+        "value": "DYNAMIC"
+      },
+      {
+        "name": "cf-ray",
+        "value": "97247dd7897773c6-JNB"
+      },
+      {
+        "name": "content-encoding",
+        "value": "br"
+      },
+      {
+        "name": "content-length",
+        "value": "6"
+      },
+      {
+        "name": "content-type",
+        "value": "text/plain; charset=utf-8"
+      },
+      {
+        "name": "date",
+        "value": "Wed, 20 Aug 2025 20:03:01 GMT"
+      },
+      {
+        "name": "priority",
+        "value": "u=1,i"
+      },
+      {
+        "name": "rndr-id",
+        "value": "267f56b9-4eda-487b"
+      },
+      {
+        "name": "server",
+        "value": "cloudflare"
+      },
+      {
+        "name": "server-timing",
+        "value": "cfExtPri"
+      },
+      {
+        "name": "vary",
+        "value": "Origin"
+      },
+      {
+        "name": "vary",
+        "value": "Accept-Encoding"
+      },
+      {
+        "name": "x-render-origin-server",
+        "value": "uvicorn"
+      }
+    ],
+    "cookies": [],
+    "content": {
+      "size": 0,
+      "mimeType": "text/plain"
+    },
+    "redirectURL": "",
+    "headersSize": -1,
+    "bodySize": -1,
+    "_transferSize": 0,
+    "_error": null
+  },
+  "serverIPAddress": "216.24.57.7",
+  "startedDateTime": "2025-08-20T20:02:59.840Z",
+  "time": 620.5179999999236,
+  "timings": {
+    "blocked": 0.09200000000000008,
+    "dns": -1,
+    "ssl": -1,
+    "connect": -1,
+    "send": 0.589,
+    "wait": 617.6910000010216,
+    "receive": 2.1459999989019707,
+    "_blocked_queueing": -1
+  }
+}

@@ -1,0 +1,1296 @@
+{
+  "_initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "",
+          "scriptId": "145",
+          "url": "https://www.vectal.ai/_next/static/chunks/255-09d4110625f95128.js",
+          "lineNumber": 0,
+          "columnNumber": 7509
+        }
+      ],
+      "parent": {
+        "description": "await",
+        "callFrames": [
+          {
+            "functionName": "l",
+            "scriptId": "145",
+            "url": "https://www.vectal.ai/_next/static/chunks/255-09d4110625f95128.js",
+            "lineNumber": 0,
+            "columnNumber": 5685
+          },
+          {
+            "functionName": "f",
+            "scriptId": "145",
+            "url": "https://www.vectal.ai/_next/static/chunks/255-09d4110625f95128.js",
+            "lineNumber": 0,
+            "columnNumber": 7383
+          },
+          {
+            "functionName": "",
+            "scriptId": "145",
+            "url": "https://www.vectal.ai/_next/static/chunks/255-09d4110625f95128.js",
+            "lineNumber": 0,
+            "columnNumber": 8480
+          },
+          {
+            "functionName": "g",
+            "scriptId": "145",
+            "url": "https://www.vectal.ai/_next/static/chunks/255-09d4110625f95128.js",
+            "lineNumber": 0,
+            "columnNumber": 8499
+          },
+          {
+            "functionName": "D",
+            "scriptId": "145",
+            "url": "https://www.vectal.ai/_next/static/chunks/255-09d4110625f95128.js",
+            "lineNumber": 0,
+            "columnNumber": 16653
+          },
+          {
+            "functionName": "callBackendFunction",
+            "scriptId": "150",
+            "url": "https://www.vectal.ai/_next/static/chunks/553-1cc68e2e2dd6bd6c.js",
+            "lineNumber": 0,
+            "columnNumber": 707477
+          },
+          {
+            "functionName": "getDueReminders",
+            "scriptId": "150",
+            "url": "https://www.vectal.ai/_next/static/chunks/553-1cc68e2e2dd6bd6c.js",
+            "lineNumber": 0,
+            "columnNumber": 51437
+          },
+          {
+            "functionName": "",
+            "scriptId": "150",
+            "url": "https://www.vectal.ai/_next/static/chunks/553-1cc68e2e2dd6bd6c.js",
+            "lineNumber": 0,
+            "columnNumber": 737801
+          },
+          {
+            "functionName": "",
+            "scriptId": "133",
+            "url": "https://www.vectal.ai/_next/static/chunks/451-bb302d5e050a3e78.js",
+            "lineNumber": 0,
+            "columnNumber": 43393
+          },
+          {
+            "functionName": "",
+            "scriptId": "133",
+            "url": "https://www.vectal.ai/_next/static/chunks/451-bb302d5e050a3e78.js",
+            "lineNumber": 0,
+            "columnNumber": 43823
+          },
+          {
+            "functionName": "",
+            "scriptId": "133",
+            "url": "https://www.vectal.ai/_next/static/chunks/451-bb302d5e050a3e78.js",
+            "lineNumber": 0,
+            "columnNumber": 38675
+          },
+          {
+            "functionName": "",
+            "scriptId": "150",
+            "url": "https://www.vectal.ai/_next/static/chunks/553-1cc68e2e2dd6bd6c.js",
+            "lineNumber": 0,
+            "columnNumber": 164508
+          },
+          {
+            "functionName": "o0",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 88666
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104555
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104535
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104600
+          },
+          {
+            "functionName": "uS",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104439
+          },
+          {
+            "functionName": "ux",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 104625
+          },
+          {
+            "functionName": "iT",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 129024
+          },
+          {
+            "functionName": "iL",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 128801
+          },
+          {
+            "functionName": "iP",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 128574
+          },
+          {
+            "functionName": "iE",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 126409
+          },
+          {
+            "functionName": "iu",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 112514
+          },
+          {
+            "functionName": "io",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 111867
+          },
+          {
+            "functionName": "iX",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 132761
+          },
+          {
+            "functionName": "iB",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 130972
+          },
+          {
+            "functionName": "iq",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 131317
+          },
+          {
+            "functionName": "",
+            "scriptId": "118",
+            "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+            "lineNumber": 0,
+            "columnNumber": 130601
+          }
+        ]
+      }
+    }
+  },
+  "_priority": "High",
+  "_resourceType": "fetch",
+  "cache": {},
+  "request": {
+    "method": "POST",
+    "url": "https://api.vectal.ai/perspective/NoteListPerspective/func/getDueReminders",
+    "httpVersion": "h3",
+    "headers": [
+      {
+        "name": ":authority",
+        "value": "api.vectal.ai"
+      },
+      {
+        "name": ":method",
+        "value": "POST"
+      },
+      {
+        "name": ":path",
+        "value": "/perspective/NoteListPerspective/func/getDueReminders"
+      },
+      {
+        "name": ":scheme",
+        "value": "https"
+      },
+      {
+        "name": "accept",
+        "value": "*/*"
+      },
+      {
+        "name": "accept-encoding",
+        "value": "gzip, deflate, br"
+      },
+      {
+        "name": "accept-language",
+        "value": "en-US"
+      },
+      {
+        "name": "authorization",
+        "value": "Bearer eyJhbGciOiJIUzI1NiIsImtpZCI6ImxzRzllKy9XVE9Pa0c1amEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2VidGdzZnN1aGt5c2FxY2ljdmppLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiI1NmE5OTA0Zi1mZTU3LTQ4NDEtYTNkMC1iYmY2MTdhODhmZWEiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzU1NzIzMjAzLCJpYXQiOjE3NTU3MTk2MDMsImVtYWlsIjoiZWNob0Byem8uaW8iLCJwaG9uZSI6IiIsImFwcF9tZXRhZGF0YSI6eyJwcm92aWRlciI6Imdvb2dsZSIsInByb3ZpZGVycyI6WyJnb29nbGUiXX0sInVzZXJfbWV0YWRhdGEiOnsiYXZhdGFyX3VybCI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FDZzhvY0t4aEw1ajRkWmd1eGVLbUE0UERmQXA1cTl3MktFZHZZT2tPY012bFFOZEI2cVdvaE09czk2LWMiLCJjdXN0b21fY2xhaW1zIjp7ImhkIjoicnpvLmlvIn0sImVtYWlsIjoiZWNob0Byem8uaW8iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZnVsbF9uYW1lIjoiRGVlcCBUcmVlIEVjaG8iLCJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYW1lIjoiRGVlcCBUcmVlIEVjaG8iLCJwaG9uZV92ZXJpZmllZCI6ZmFsc2UsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NLeGhMNWo0ZFpndXhlS21BNFBEZkFwNXE5dzJLRWR2WU9rT2NNdmxRTmRCNnFXb2hNPXM5Ni1jIiwicHJvdmlkZXJfaWQiOiIxMDI0NTI2MDY1MzMyNDM4MjUwODUiLCJzdWIiOiIxMDI0NTI2MDY1MzMyNDM4MjUwODUifSwicm9sZSI6ImF1dGhlbnRpY2F0ZWQiLCJhYWwiOiJhYWwxIiwiYW1yIjpbeyJtZXRob2QiOiJvYXV0aCIsInRpbWVzdGFtcCI6MTc0ODQyOTE2M31dLCJzZXNzaW9uX2lkIjoiZDc0N2QzYTItZDdlMy00NWMwLThlOWItMWM1NzY3YTk1Mzc5IiwiaXNfYW5vbnltb3VzIjpmYWxzZX0.NjddzrLH6XbUs2PvZrPCvgI_5xo3qzuUp-KAfGUY6Us"
+      },
+      {
+        "name": "content-length",
+        "value": "110"
+      },
+      {
+        "name": "content-type",
+        "value": "application/json"
+      },
+      {
+        "name": "origin",
+        "value": "https://www.vectal.ai"
+      },
+      {
+        "name": "referer",
+        "value": "https://www.vectal.ai/"
+      },
+      {
+        "name": "sec-ch-ua",
+        "value": "\"Not(A:Brand\";v=\"24\", \"Chromium\";v=\"122\""
+      },
+      {
+        "name": "sec-ch-ua-mobile",
+        "value": "?0"
+      },
+      {
+        "name": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+      },
+      {
+        "name": "sec-fetch-dest",
+        "value": "empty"
+      },
+      {
+        "name": "sec-fetch-mode",
+        "value": "cors"
+      },
+      {
+        "name": "sec-fetch-site",
+        "value": "same-site"
+      },
+      {
+        "name": "user-agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Noi/0.4.0 Chrome/122.0.6261.130 Electron/29.1.5 Safari/537.36"
+      }
+    ],
+    "queryString": [],
+    "cookies": [],
+    "headersSize": -1,
+    "bodySize": 110,
+    "postData": {
+      "mimeType": "application/json",
+      "text": "{\"data\":{\"timezone\":\"Africa/Johannesburg\"},\"state\":{\"page\":1,\"page_size\":20,\"timezone\":\"Africa/Johannesburg\"}}"
+    }
+  },
+  "response": {
+    "status": 200,
+    "statusText": "",
+    "httpVersion": "h3",
+    "headers": [
+      {
+        "name": "Content-Security-Policy",
+        "value": ""
+      },
+      {
+        "name": "access-control-allow-credentials",
+        "value": "true"
+      },
+      {
+        "name": "access-control-allow-origin",
+        "value": "https://www.vectal.ai"
+      },
+      {
+        "name": "access-control-expose-headers",
+        "value": "X-Accel-Buffering, Content-Type"
+      },
+      {
+        "name": "alt-svc",
+        "value": "h3=\":443\"; ma=86400"
+      },
+      {
+        "name": "cf-cache-status",
+        "value": "DYNAMIC"
+      },
+      {
+        "name": "cf-ray",
+        "value": "97247dd8db0e73c6-JNB"
+      },
+      {
+        "name": "content-encoding",
+        "value": "br"
+      },
+      {
+        "name": "content-length",
+        "value": "70"
+      },
+      {
+        "name": "content-type",
+        "value": "application/json"
+      },
+      {
+        "name": "date",
+        "value": "Wed, 20 Aug 2025 20:03:01 GMT"
+      },
+      {
+        "name": "priority",
+        "value": "u=1,i"
+      },
+      {
+        "name": "rndr-id",
+        "value": "0cf936d1-755d-4979"
+      },
+      {
+        "name": "server",
+        "value": "cloudflare"
+      },
+      {
+        "name": "server-timing",
+        "value": "cfExtPri"
+      },
+      {
+        "name": "vary",
+        "value": "Origin"
+      },
+      {
+        "name": "vary",
+        "value": "Accept-Encoding"
+      },
+      {
+        "name": "x-render-origin-server",
+        "value": "uvicorn"
+      }
+    ],
+    "cookies": [],
+    "content": {
+      "size": 78,
+      "mimeType": "application/json",
+      "text": "{\"data\":[],\"state\":{\"page\":1,\"page_size\":20,\"timezone\":\"Africa/Johannesburg\"}}"
+    },
+    "redirectURL": "",
+    "headersSize": -1,
+    "bodySize": -1,
+    "_transferSize": 331,
+    "_error": null
+  },
+  "serverIPAddress": "216.24.57.7",
+  "startedDateTime": "2025-08-20T20:02:59.828Z",
+  "time": 988.708000004408,
+  "timings": {
+    "blocked": 216.08200000436324,
+    "dns": -1,
+    "ssl": -1,
+    "connect": -1,
+    "send": 0.8179999999999998,
+    "wait": 769.2479999992321,
+    "receive": 2.560000000812579,
+    "_blocked_queueing": 214.18500000436325
+  }
+}

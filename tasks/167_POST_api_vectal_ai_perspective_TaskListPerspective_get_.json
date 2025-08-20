@@ -1,0 +1,1291 @@
+{
+  "_initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "",
+          "scriptId": "145",
+          "url": "https://www.vectal.ai/_next/static/chunks/255-09d4110625f95128.js",
+          "lineNumber": 0,
+          "columnNumber": 7509
+        }
+      ],
+      "parent": {
+        "description": "await",
+        "callFrames": [
+          {
+            "functionName": "l",
+            "scriptId": "145",
+            "url": "https://www.vectal.ai/_next/static/chunks/255-09d4110625f95128.js",
+            "lineNumber": 0,
+            "columnNumber": 5685
+          },
+          {
+            "functionName": "f",
+            "scriptId": "145",
+            "url": "https://www.vectal.ai/_next/static/chunks/255-09d4110625f95128.js",
+            "lineNumber": 0,
+            "columnNumber": 7383
+          },
+          {
+            "functionName": "",
+            "scriptId": "145",
+            "url": "https://www.vectal.ai/_next/static/chunks/255-09d4110625f95128.js",
+            "lineNumber": 0,
+            "columnNumber": 8480
+          },
+          {
+            "functionName": "g",
+            "scriptId": "145",
+            "url": "https://www.vectal.ai/_next/static/chunks/255-09d4110625f95128.js",
+            "lineNumber": 0,
+            "columnNumber": 8499
+          },
+          {
+            "functionName": "x",
+            "scriptId": "145",
+            "url": "https://www.vectal.ai/_next/static/chunks/255-09d4110625f95128.js",
+            "lineNumber": 0,
+            "columnNumber": 15957
+          },
+          {
+            "functionName": "getScreenData",
+            "scriptId": "150",
+            "url": "https://www.vectal.ai/_next/static/chunks/553-1cc68e2e2dd6bd6c.js",
+            "lineNumber": 0,
+            "columnNumber": 707181
+          },
+          {
+            "functionName": "",
+            "scriptId": "150",
+            "url": "https://www.vectal.ai/_next/static/chunks/553-1cc68e2e2dd6bd6c.js",
+            "lineNumber": 0,
+            "columnNumber": 129601
+          }
+        ],
+        "parent": {
+          "description": "await",
+          "callFrames": [
+            {
+              "functionName": "",
+              "scriptId": "150",
+              "url": "https://www.vectal.ai/_next/static/chunks/553-1cc68e2e2dd6bd6c.js",
+              "lineNumber": 0,
+              "columnNumber": 129029
+            },
+            {
+              "functionName": "o0",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 88666
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104555
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104535
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104600
+            },
+            {
+              "functionName": "uS",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104439
+            },
+            {
+              "functionName": "ux",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 104625
+            },
+            {
+              "functionName": "iT",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 129024
+            },
+            {
+              "functionName": "iL",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 128801
+            },
+            {
+              "functionName": "iX",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 132744
+            },
+            {
+              "functionName": "iB",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 130972
+            },
+            {
+              "functionName": "iP",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 128657
+            },
+            {
+              "functionName": "iE",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 126409
+            },
+            {
+              "functionName": "iu",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 112514
+            },
+            {
+              "functionName": "io",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 111867
+            },
+            {
+              "functionName": "iY",
+              "scriptId": "118",
+              "url": "https://www.vectal.ai/_next/static/chunks/4bd1b696-9911af18dede28aa.js",
+              "lineNumber": 0,
+              "columnNumber": 132640
+            },
+            {
+              "functionName": "w",
+              "scriptId": "125",
+              "url": "https://www.vectal.ai/_next/static/chunks/964-42be1c1b65719424.js",
+              "lineNumber": 0,
+              "columnNumber": 51546
+            }
+          ],
+          "parentId": {
+            "id": "898",
+            "debuggerId": "7263415437990589974.5676687630533094787"
+          }
+        }
+      }
+    }
+  },
+  "_priority": "High",
+  "_resourceType": "fetch",
+  "cache": {},
+  "request": {
+    "method": "POST",
+    "url": "https://api.vectal.ai/perspective/TaskListPerspective/get-screen-data",
+    "httpVersion": "h3",
+    "headers": [
+      {
+        "name": ":authority",
+        "value": "api.vectal.ai"
+      },
+      {
+        "name": ":method",
+        "value": "POST"
+      },
+      {
+        "name": ":path",
+        "value": "/perspective/TaskListPerspective/get-screen-data"
+      },
+      {
+        "name": ":scheme",
+        "value": "https"
+      },
+      {
+        "name": "accept",
+        "value": "*/*"
+      },
+      {
+        "name": "accept-encoding",
+        "value": "gzip, deflate, br"
+      },
+      {
+        "name": "accept-language",
+        "value": "en-US"
+      },
+      {
+        "name": "authorization",
+        "value": "Bearer eyJhbGciOiJIUzI1NiIsImtpZCI6ImxzRzllKy9XVE9Pa0c1amEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2VidGdzZnN1aGt5c2FxY2ljdmppLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiI1NmE5OTA0Zi1mZTU3LTQ4NDEtYTNkMC1iYmY2MTdhODhmZWEiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzU1NzIzMjAzLCJpYXQiOjE3NTU3MTk2MDMsImVtYWlsIjoiZWNob0Byem8uaW8iLCJwaG9uZSI6IiIsImFwcF9tZXRhZGF0YSI6eyJwcm92aWRlciI6Imdvb2dsZSIsInByb3ZpZGVycyI6WyJnb29nbGUiXX0sInVzZXJfbWV0YWRhdGEiOnsiYXZhdGFyX3VybCI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FDZzhvY0t4aEw1ajRkWmd1eGVLbUE0UERmQXA1cTl3MktFZHZZT2tPY012bFFOZEI2cVdvaE09czk2LWMiLCJjdXN0b21fY2xhaW1zIjp7ImhkIjoicnpvLmlvIn0sImVtYWlsIjoiZWNob0Byem8uaW8iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZnVsbF9uYW1lIjoiRGVlcCBUcmVlIEVjaG8iLCJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYW1lIjoiRGVlcCBUcmVlIEVjaG8iLCJwaG9uZV92ZXJpZmllZCI6ZmFsc2UsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NLeGhMNWo0ZFpndXhlS21BNFBEZkFwNXE5dzJLRWR2WU9rT2NNdmxRTmRCNnFXb2hNPXM5Ni1jIiwicHJvdmlkZXJfaWQiOiIxMDI0NTI2MDY1MzMyNDM4MjUwODUiLCJzdWIiOiIxMDI0NTI2MDY1MzMyNDM4MjUwODUifSwicm9sZSI6ImF1dGhlbnRpY2F0ZWQiLCJhYWwiOiJhYWwxIiwiYW1yIjpbeyJtZXRob2QiOiJvYXV0aCIsInRpbWVzdGFtcCI6MTc0ODQyOTE2M31dLCJzZXNzaW9uX2lkIjoiZDc0N2QzYTItZDdlMy00NWMwLThlOWItMWM1NzY3YTk1Mzc5IiwiaXNfYW5vbnltb3VzIjpmYWxzZX0.NjddzrLH6XbUs2PvZrPCvgI_5xo3qzuUp-KAfGUY6Us"
+      },
+      {
+        "name": "content-length",
+        "value": "99"
+      },
+      {
+        "name": "content-type",
+        "value": "application/json"
+      },
+      {
+        "name": "origin",
+        "value": "https://www.vectal.ai"
+      },
+      {
+        "name": "referer",
+        "value": "https://www.vectal.ai/"
+      },
+      {
+        "name": "sec-ch-ua",
+        "value": "\"Not(A:Brand\";v=\"24\", \"Chromium\";v=\"122\""
+      },
+      {
+        "name": "sec-ch-ua-mobile",
+        "value": "?0"
+      },
+      {
+        "name": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+      },
+      {
+        "name": "sec-fetch-dest",
+        "value": "empty"
+      },
+      {
+        "name": "sec-fetch-mode",
+        "value": "cors"
+      },
+      {
+        "name": "sec-fetch-site",
+        "value": "same-site"
+      },
+      {
+        "name": "user-agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Noi/0.4.0 Chrome/122.0.6261.130 Electron/29.1.5 Safari/537.36"
+      }
+    ],
+    "queryString": [],
+    "cookies": [],
+    "headersSize": -1,
+    "bodySize": 99,
+    "postData": {
+      "mimeType": "application/json",
+      "text": "{\"state\":{\"page\":1,\"page_size\":30,\"filters\":{\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\"}}}"
+    }
+  },
+  "response": {
+    "status": 200,
+    "statusText": "",
+    "httpVersion": "h3",
+    "headers": [
+      {
+        "name": "Content-Security-Policy",
+        "value": ""
+      },
+      {
+        "name": "access-control-allow-credentials",
+        "value": "true"
+      },
+      {
+        "name": "access-control-allow-origin",
+        "value": "https://www.vectal.ai"
+      },
+      {
+        "name": "access-control-expose-headers",
+        "value": "X-Accel-Buffering, Content-Type"
+      },
+      {
+        "name": "alt-svc",
+        "value": "h3=\":443\"; ma=86400"
+      },
+      {
+        "name": "cf-cache-status",
+        "value": "DYNAMIC"
+      },
+      {
+        "name": "cf-ray",
+        "value": "972480cf6af973c6-JNB"
+      },
+      {
+        "name": "content-encoding",
+        "value": "br"
+      },
+      {
+        "name": "content-length",
+        "value": "3662"
+      },
+      {
+        "name": "content-type",
+        "value": "application/json"
+      },
+      {
+        "name": "date",
+        "value": "Wed, 20 Aug 2025 20:05:02 GMT"
+      },
+      {
+        "name": "priority",
+        "value": "u=1,i"
+      },
+      {
+        "name": "rndr-id",
+        "value": "a68bc6d4-4613-4558"
+      },
+      {
+        "name": "server",
+        "value": "cloudflare"
+      },
+      {
+        "name": "server-timing",
+        "value": "cfExtPri"
+      },
+      {
+        "name": "vary",
+        "value": "Origin"
+      },
+      {
+        "name": "vary",
+        "value": "Accept-Encoding"
+      },
+      {
+        "name": "x-render-origin-server",
+        "value": "uvicorn"
+      }
+    ],
+    "cookies": [],
+    "content": {
+      "size": 22175,
+      "mimeType": "application/json",
+      "text": "{\"data\":{\"tasks\":[{\"id\":\"8c076f73-cf20-4ed1-8294-fdf0bfcffaa3\",\"created_at\":\"2025-02-03T05:05:42.858689+00:00\",\"user_id\":\"56a9904f-fe57-4841-a3d0-bbf617a88fea\",\"name\":\"7 Enhanced Evolutionary Algorithm Core\",\"importance\":91,\"context\":\"Implement advanced selection mechanisms, dynamic rate controllers, and diversity preservation systems including adaptive niching and tournament selection.\",\"ai_context\":null,\"is_indexed\":false,\"status_text\":null,\"due_date\":\"2025-09-15T00:00:00+00:00\",\"status\":\"active\",\"kanban_column\":\"in-progress\",\"recurring_cadence\":null,\"background_agent_status\":\"paused\",\"last_worked_on\":null,\"recurrence\":null,\"completed_at\":null,\"search_indexed_at\":\"2025-04-05T23:33:00.629172+00:00\",\"search_updated_at\":null,\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"search_vector\":\"'7':1A 'adapt':18B 'advanc':7B 'algorithm':4A 'control':12B 'core':5A 'divers':14B 'dynam':10B 'enhanc':2A 'evolutionari':3A 'implement':6B 'includ':17B 'mechan':9B 'nich':19B 'preserv':15B 'rate':11B 'select':8B,22B 'system':16B 'tournament':21B\",\"deleted_at\":null,\"project_team_id\":null,\"assignees\":[],\"assignee_ids\":[],\"is_personal_project\":true,\"is_due_today_or_past\":false,\"sort_bucket\":3,\"due_date_date\":\"2025-09-15\",\"lex_key\":null},{\"id\":\"e2188b45-3d8d-4d80-baab-cd2f39c9fb7a\",\"created_at\":\"2025-02-03T04:57:13.684135+00:00\",\"user_id\":\"56a9904f-fe57-4841-a3d0-bbf617a88fea\",\"name\":\"2.5 Implement Evolutionary Algorithm Core\",\"importance\":89,\"context\":\"Develop core evolutionary algorithm components including selection mechanisms, dynamic rate adjustment, and parallel evaluation systems.\",\"ai_context\":null,\"is_indexed\":false,\"status_text\":null,\"due_date\":\"2025-09-15T00:00:00+00:00\",\"status\":\"active\",\"kanban_column\":\"in-progress\",\"recurring_cadence\":null,\"background_agent_status\":\"paused\",\"last_worked_on\":null,\"recurrence\":null,\"completed_at\":null,\"search_indexed_at\":\"2025-04-05T23:33:00.629172+00:00\",\"search_updated_at\":null,\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"search_vector\":\"'2.5':1A 'adjust':16B 'algorithm':4A,9B 'compon':10B 'core':5A,7B 'develop':6B 'dynam':14B 'evalu':19B 'evolutionari':3A,8B 'implement':2A 'includ':11B 'mechan':13B 'parallel':18B 'rate':15B 'select':12B 'system':20B\",\"deleted_at\":null,\"project_team_id\":null,\"assignees\":[],\"assignee_ids\":[],\"is_personal_project\":true,\"is_due_today_or_past\":false,\"sort_bucket\":3,\"due_date_date\":\"2025-09-15\",\"lex_key\":null},{\"id\":\"5c426c68-67e5-4da2-89bc-88ae5d55f1aa\",\"created_at\":\"2025-02-03T04:57:13.721279+00:00\",\"user_id\":\"56a9904f-fe57-4841-a3d0-bbf617a88fea\",\"name\":\"2.5.1 Implement Selection Mechanism\",\"importance\":88,\"context\":\"Develop tournament selection and elitism systems for balancing exploration and exploitation in the evolutionary process.\",\"ai_context\":null,\"is_indexed\":false,\"status_text\":null,\"due_date\":\"2025-09-15T00:00:00+00:00\",\"status\":\"active\",\"kanban_column\":\"in-progress\",\"recurring_cadence\":null,\"background_agent_status\":\"paused\",\"last_worked_on\":null,\"recurrence\":null,\"completed_at\":null,\"search_indexed_at\":\"2025-04-05T23:33:00.629172+00:00\",\"search_updated_at\":null,\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"search_vector\":\"'2.5.1':1A 'balanc':12B 'develop':5B 'elit':9B 'evolutionari':18B 'exploit':15B 'explor':13B 'implement':2A 'mechan':4A 'process':19B 'select':3A,7B 'system':10B 'tournament':6B\",\"deleted_at\":null,\"project_team_id\":null,\"assignees\":[],\"assignee_ids\":[],\"is_personal_project\":true,\"is_due_today_or_past\":false,\"sort_bucket\":3,\"due_date_date\":\"2025-09-15\",\"lex_key\":null},{\"id\":\"c3fc984d-baba-42fd-81cc-d3fe5fdb8799\",\"created_at\":\"2025-02-03T04:57:13.760812+00:00\",\"user_id\":\"56a9904f-fe57-4841-a3d0-bbf617a88fea\",\"name\":\"2.5.2 Implement Dynamic Rate Controller\",\"importance\":87,\"context\":\"Create self-adaptive system for mutation and crossover rate adjustment based on fitness trends and population diversity metrics.\",\"ai_context\":null,\"is_indexed\":false,\"status_text\":null,\"due_date\":\"2025-09-15T00:00:00+00:00\",\"status\":\"active\",\"kanban_column\":\"in-progress\",\"recurring_cadence\":null,\"background_agent_status\":\"paused\",\"last_worked_on\":null,\"recurrence\":null,\"completed_at\":null,\"search_indexed_at\":\"2025-04-05T23:33:00.629172+00:00\",\"search_updated_at\":null,\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"search_vector\":\"'2.5.2':1A 'adapt':9B 'adjust':16B 'base':17B 'control':5A 'creat':6B 'crossov':14B 'divers':23B 'dynam':3A 'fit':19B 'implement':2A 'metric':24B 'mutat':12B 'popul':22B 'rate':4A,15B 'self':8B 'self-adapt':7B 'system':10B 'trend':20B\",\"deleted_at\":null,\"project_team_id\":null,\"assignees\":[],\"assignee_ids\":[],\"is_personal_project\":true,\"is_due_today_or_past\":false,\"sort_bucket\":3,\"due_date_date\":\"2025-09-15\",\"lex_key\":null},{\"id\":\"f77ca7ac-761f-43dd-8769-cca127af049b\",\"created_at\":\"2025-02-03T04:57:13.786331+00:00\",\"user_id\":\"56a9904f-fe57-4841-a3d0-bbf617a88fea\",\"name\":\"2.5.3 Implement Parallel Evaluation System\",\"importance\":86,\"context\":\"Develop parallel fitness evaluation framework to optimize evolutionary process performance and convergence speed.\",\"ai_context\":null,\"is_indexed\":false,\"status_text\":null,\"due_date\":\"2025-09-15T00:00:00+00:00\",\"status\":\"active\",\"kanban_column\":\"in-progress\",\"recurring_cadence\":null,\"background_agent_status\":\"paused\",\"last_worked_on\":null,\"recurrence\":null,\"completed_at\":null,\"search_indexed_at\":\"2025-04-05T23:33:00.629172+00:00\",\"search_updated_at\":null,\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"search_vector\":\"'2.5.3':1A 'converg':17B 'develop':6B 'evalu':4A,9B 'evolutionari':13B 'fit':8B 'framework':10B 'implement':2A 'optim':12B 'parallel':3A,7B 'perform':15B 'process':14B 'speed':18B 'system':5A\",\"deleted_at\":null,\"project_team_id\":null,\"assignees\":[],\"assignee_ids\":[],\"is_personal_project\":true,\"is_due_today_or_past\":false,\"sort_bucket\":3,\"due_date_date\":\"2025-09-15\",\"lex_key\":null},{\"id\":\"76495695-9c51-41da-8b18-73043cc9fda6\",\"created_at\":\"2025-02-03T04:57:13.813446+00:00\",\"user_id\":\"56a9904f-fe57-4841-a3d0-bbf617a88fea\",\"name\":\"2.5.4 Implement Diversity Preservation\",\"importance\":85,\"context\":\"Create fitness sharing and diversity monitoring systems to prevent premature convergence and maintain population variety.\",\"ai_context\":null,\"is_indexed\":false,\"status_text\":null,\"due_date\":\"2025-09-15T00:00:00+00:00\",\"status\":\"active\",\"kanban_column\":\"in-progress\",\"recurring_cadence\":null,\"background_agent_status\":\"paused\",\"last_worked_on\":null,\"recurrence\":null,\"completed_at\":null,\"search_indexed_at\":\"2025-04-05T23:33:00.629172+00:00\",\"search_updated_at\":null,\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"search_vector\":\"'2.5.4':1A 'converg':15B 'creat':5B 'divers':3A,9B 'fit':6B 'implement':2A 'maintain':17B 'monitor':10B 'popul':18B 'prematur':14B 'preserv':4A 'prevent':13B 'share':7B 'system':11B 'varieti':19B\",\"deleted_at\":null,\"project_team_id\":null,\"assignees\":[],\"assignee_ids\":[],\"is_personal_project\":true,\"is_due_today_or_past\":false,\"sort_bucket\":3,\"due_date_date\":\"2025-09-15\",\"lex_key\":null},{\"id\":\"ac5bd2ee-31ae-4a1b-875b-f516797a998e\",\"created_at\":\"2025-02-03T04:57:31.526855+00:00\",\"user_id\":\"56a9904f-fe57-4841-a3d0-bbf617a88fea\",\"name\":\"2.5.5 Implement Fitness Landscape Analyzer\",\"importance\":85,\"context\":\"Develop system for analyzing and mapping the fitness landscape, including gradient estimation and local optima detection for improved evolutionary guidance.\",\"ai_context\":null,\"is_indexed\":false,\"status_text\":null,\"due_date\":\"2025-09-15T00:00:00+00:00\",\"status\":\"active\",\"kanban_column\":\"in-progress\",\"recurring_cadence\":null,\"background_agent_status\":\"paused\",\"last_worked_on\":null,\"recurrence\":null,\"completed_at\":null,\"search_indexed_at\":\"2025-04-05T23:33:00.629172+00:00\",\"search_updated_at\":null,\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"search_vector\":\"'2.5.5':1A 'analyz':5A,9B 'detect':21B 'develop':6B 'estim':17B 'evolutionari':24B 'fit':3A,13B 'gradient':16B 'guidanc':25B 'implement':2A 'improv':23B 'includ':15B 'landscap':4A,14B 'local':19B 'map':11B 'optima':20B 'system':7B\",\"deleted_at\":null,\"project_team_id\":null,\"assignees\":[],\"assignee_ids\":[],\"is_personal_project\":true,\"is_due_today_or_past\":false,\"sort_bucket\":3,\"due_date_date\":\"2025-09-15\",\"lex_key\":null},{\"id\":\"3ea4dca0-9032-42ff-920b-df82268e6139\",\"created_at\":\"2025-02-03T04:57:31.549876+00:00\",\"user_id\":\"56a9904f-fe57-4841-a3d0-bbf617a88fea\",\"name\":\"2.5.6 Design Adaptive Mutation Operators\",\"importance\":84,\"context\":\"Create self-adjusting mutation operators that adapt based on fitness landscape analysis and population diversity metrics.\",\"ai_context\":null,\"is_indexed\":false,\"status_text\":null,\"due_date\":\"2025-09-15T00:00:00+00:00\",\"status\":\"active\",\"kanban_column\":\"in-progress\",\"recurring_cadence\":null,\"background_agent_status\":\"paused\",\"last_worked_on\":null,\"recurrence\":null,\"completed_at\":null,\"search_indexed_at\":\"2025-04-05T23:33:00.629172+00:00\",\"search_updated_at\":null,\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"search_vector\":\"'2.5.6':1A 'adapt':3A,13B 'adjust':9B 'analysi':18B 'base':14B 'creat':6B 'design':2A 'divers':21B 'fit':16B 'landscap':17B 'metric':22B 'mutat':4A,10B 'oper':5A,11B 'popul':20B 'self':8B 'self-adjust':7B\",\"deleted_at\":null,\"project_team_id\":null,\"assignees\":[],\"assignee_ids\":[],\"is_personal_project\":true,\"is_due_today_or_past\":false,\"sort_bucket\":3,\"due_date_date\":\"2025-09-15\",\"lex_key\":null},{\"id\":\"d7c8dfce-588e-4368-8c62-b46c32af22ed\",\"created_at\":\"2025-02-03T04:57:49.219726+00:00\",\"user_id\":\"56a9904f-fe57-4841-a3d0-bbf617a88fea\",\"name\":\"2.5.6.1 Implement Fitness-Based Mutation\",\"importance\":83,\"context\":\"Develop adaptive mutation rates based on fitness landscape analysis, including gradient estimation and local optima detection.\",\"ai_context\":null,\"is_indexed\":false,\"status_text\":null,\"due_date\":\"2025-09-15T00:00:00+00:00\",\"status\":\"active\",\"kanban_column\":\"in-progress\",\"recurring_cadence\":null,\"background_agent_status\":\"paused\",\"last_worked_on\":null,\"recurrence\":null,\"completed_at\":null,\"search_indexed_at\":\"2025-04-05T23:33:00.629172+00:00\",\"search_updated_at\":null,\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"search_vector\":\"'2.5.6.1':1A 'adapt':8B 'analysi':15B 'base':5A,11B 'detect':22B 'develop':7B 'estim':18B 'fit':4A,13B 'fitness-bas':3A 'gradient':17B 'implement':2A 'includ':16B 'landscap':14B 'local':20B 'mutat':6A,9B 'optima':21B 'rate':10B\",\"deleted_at\":null,\"project_team_id\":null,\"assignees\":[],\"assignee_ids\":[],\"is_personal_project\":true,\"is_due_today_or_past\":false,\"sort_bucket\":3,\"due_date_date\":\"2025-09-15\",\"lex_key\":null},{\"id\":\"e49c9f74-c6ab-4100-af73-a5363c4daf53\",\"created_at\":\"2025-02-03T04:57:49.244168+00:00\",\"user_id\":\"56a9904f-fe57-4841-a3d0-bbf617a88fea\",\"name\":\"2.5.6.2 Implement Diversity-Based Mutation\",\"importance\":82,\"context\":\"Create mutation operators that adapt based on population diversity metrics, including hamming distance and phenotype variation measures.\",\"ai_context\":null,\"is_indexed\":false,\"status_text\":null,\"due_date\":\"2025-09-15T00:00:00+00:00\",\"status\":\"active\",\"kanban_column\":\"in-progress\",\"recurring_cadence\":null,\"background_agent_status\":\"paused\",\"last_worked_on\":null,\"recurrence\":null,\"completed_at\":null,\"search_indexed_at\":\"2025-04-05T23:33:00.629172+00:00\",\"search_updated_at\":null,\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"search_vector\":\"'2.5.6.2':1A 'adapt':11B 'base':5A,12B 'creat':7B 'distanc':19B 'divers':4A,15B 'diversity-bas':3A 'ham':18B 'implement':2A 'includ':17B 'measur':23B 'metric':16B 'mutat':6A,8B 'oper':9B 'phenotyp':21B 'popul':14B 'variat':22B\",\"deleted_at\":null,\"project_team_id\":null,\"assignees\":[],\"assignee_ids\":[],\"is_personal_project\":true,\"is_due_today_or_past\":false,\"sort_bucket\":3,\"due_date_date\":\"2025-09-15\",\"lex_key\":null},{\"id\":\"c3ed58b4-dd10-41d1-aada-eb6aadda0361\",\"created_at\":\"2025-02-03T04:58:06.151923+00:00\",\"user_id\":\"56a9904f-fe57-4841-a3d0-bbf617a88fea\",\"name\":\"2.5.6.2.1 Implement Diversity Metrics\",\"importance\":82,\"context\":\"Develop core diversity measurement systems including phenotype variation tracking, genetic distance calculations, and population entropy metrics for the evolutionary algorithm.\",\"ai_context\":null,\"is_indexed\":false,\"status_text\":null,\"due_date\":\"2025-09-15T00:00:00+00:00\",\"status\":\"active\",\"kanban_column\":\"in-progress\",\"recurring_cadence\":null,\"background_agent_status\":\"paused\",\"last_worked_on\":null,\"recurrence\":null,\"completed_at\":null,\"search_indexed_at\":\"2025-04-05T23:33:00.629172+00:00\",\"search_updated_at\":null,\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"search_vector\":\"'2.5.6.2.1':1A 'algorithm':24B 'calcul':16B 'core':6B 'develop':5B 'distanc':15B 'divers':3A,7B 'entropi':19B 'evolutionari':23B 'genet':14B 'implement':2A 'includ':10B 'measur':8B 'metric':4A,20B 'phenotyp':11B 'popul':18B 'system':9B 'track':13B 'variat':12B\",\"deleted_at\":null,\"project_team_id\":null,\"assignees\":[],\"assignee_ids\":[],\"is_personal_project\":true,\"is_due_today_or_past\":false,\"sort_bucket\":3,\"due_date_date\":\"2025-09-15\",\"lex_key\":null},{\"id\":\"902ea896-2969-4d14-b1ab-b99109ece6a8\",\"created_at\":\"2025-02-03T04:58:06.178079+00:00\",\"user_id\":\"56a9904f-fe57-4841-a3d0-bbf617a88fea\",\"name\":\"2.5.6.2.2 Design Diversity Maintenance\",\"importance\":81,\"context\":\"Create adaptive mechanisms for maintaining population diversity, including niching methods and diversity-driven selection pressure adjustments.\",\"ai_context\":null,\"is_indexed\":false,\"status_text\":null,\"due_date\":\"2025-09-15T00:00:00+00:00\",\"status\":\"active\",\"kanban_column\":\"in-progress\",\"recurring_cadence\":null,\"background_agent_status\":\"paused\",\"last_worked_on\":null,\"recurrence\":null,\"completed_at\":null,\"search_indexed_at\":\"2025-04-05T23:33:00.629172+00:00\",\"search_updated_at\":null,\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"search_vector\":\"'2.5.6.2.2':1A 'adapt':6B 'adjust':21B 'creat':5B 'design':2A 'divers':3A,11B,17B 'diversity-driven':16B 'driven':18B 'includ':12B 'maintain':9B 'mainten':4A 'mechan':7B 'method':14B 'nich':13B 'popul':10B 'pressur':20B 'select':19B\",\"deleted_at\":null,\"project_team_id\":null,\"assignees\":[],\"assignee_ids\":[],\"is_personal_project\":true,\"is_due_today_or_past\":false,\"sort_bucket\":3,\"due_date_date\":\"2025-09-15\",\"lex_key\":null},{\"id\":\"ba8266b2-23f8-4cfd-b086-10aabf3b21f7\",\"created_at\":\"2025-02-03T04:58:25.706024+00:00\",\"user_id\":\"56a9904f-fe57-4841-a3d0-bbf617a88fea\",\"name\":\"2.5.6.2.2.1 Implement Fitness Sharing\",\"importance\":80,\"context\":\"Develop fitness sharing mechanism to maintain distinct subpopulations, including niche radius calculation and sharing function implementation.\",\"ai_context\":null,\"is_indexed\":false,\"status_text\":null,\"due_date\":\"2025-09-15T00:00:00+00:00\",\"status\":\"active\",\"kanban_column\":\"in-progress\",\"recurring_cadence\":null,\"background_agent_status\":\"paused\",\"last_worked_on\":null,\"recurrence\":null,\"completed_at\":null,\"search_indexed_at\":\"2025-04-05T23:33:00.629172+00:00\",\"search_updated_at\":null,\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"search_vector\":\"'2.5.6.2.2.1':1A 'calcul':16B 'develop':5B 'distinct':11B 'fit':3A,6B 'function':19B 'implement':2A,20B 'includ':13B 'maintain':10B 'mechan':8B 'nich':14B 'radius':15B 'share':4A,7B,18B 'subpopul':12B\",\"deleted_at\":null,\"project_team_id\":null,\"assignees\":[],\"assignee_ids\":[],\"is_personal_project\":true,\"is_due_today_or_past\":false,\"sort_bucket\":3,\"due_date_date\":\"2025-09-15\",\"lex_key\":null},{\"id\":\"63c9817c-54ee-4935-b5e7-52c87bbd9b2f\",\"created_at\":\"2025-02-03T04:58:25.742592+00:00\",\"user_id\":\"56a9904f-fe57-4841-a3d0-bbf617a88fea\",\"name\":\"2.5.6.2.2.2 Implement Clearing Method\",\"importance\":79,\"context\":\"Create clearing mechanism to preserve niches by removing lower-fitness individuals from overcrowded niches while maintaining overall population diversity.\",\"ai_context\":null,\"is_indexed\":false,\"status_text\":null,\"due_date\":\"2025-09-15T00:00:00+00:00\",\"status\":\"active\",\"kanban_column\":\"in-progress\",\"recurring_cadence\":null,\"background_agent_status\":\"paused\",\"last_worked_on\":null,\"recurrence\":null,\"completed_at\":null,\"search_indexed_at\":\"2025-04-05T23:33:00.629172+00:00\",\"search_updated_at\":null,\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"search_vector\":\"'2.5.6.2.2.2':1A 'clear':3A,6B 'creat':5B 'divers':24B 'fit':15B 'implement':2A 'individu':16B 'lower':14B 'lower-fit':13B 'maintain':21B 'mechan':7B 'method':4A 'nich':10B,19B 'overal':22B 'overcrowd':18B 'popul':23B 'preserv':9B 'remov':12B\",\"deleted_at\":null,\"project_team_id\":null,\"assignees\":[],\"assignee_ids\":[],\"is_personal_project\":true,\"is_due_today_or_past\":false,\"sort_bucket\":3,\"due_date_date\":\"2025-09-15\",\"lex_key\":null},{\"id\":\"d5942397-a95b-4207-8fbe-846e65464ecd\",\"created_at\":\"2025-02-03T04:58:40.142241+00:00\",\"user_id\":\"56a9904f-fe57-4841-a3d0-bbf617a88fea\",\"name\":\"2.5.6.2.2.3 Implement Niche Optimization System\",\"importance\":78,\"context\":\"Develop adaptive niche optimization mechanisms including dynamic radius adjustment and niche capacity management for maintaining optimal population diversity in the evolutionary algorithm.\",\"ai_context\":null,\"is_indexed\":false,\"status_text\":null,\"due_date\":\"2025-09-15T00:00:00+00:00\",\"status\":\"active\",\"kanban_column\":\"in-progress\",\"recurring_cadence\":null,\"background_agent_status\":\"paused\",\"last_worked_on\":null,\"recurrence\":null,\"completed_at\":null,\"search_indexed_at\":\"2025-04-05T23:33:00.629172+00:00\",\"search_updated_at\":null,\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"search_vector\":\"'2.5.6.2.2.3':1A 'adapt':7B 'adjust':14B 'algorithm':27B 'capac':17B 'develop':6B 'divers':23B 'dynam':12B 'evolutionari':26B 'implement':2A 'includ':11B 'maintain':20B 'manag':18B 'mechan':10B 'nich':3A,8B,16B 'optim':4A,9B,21B 'popul':22B 'radius':13B 'system':5A\",\"deleted_at\":null,\"project_team_id\":null,\"assignees\":[],\"assignee_ids\":[],\"is_personal_project\":true,\"is_due_today_or_past\":false,\"sort_bucket\":3,\"due_date_date\":\"2025-09-15\",\"lex_key\":null},{\"id\":\"9476cb8e-57d0-4c3d-bfa2-a8e448e300aa\",\"created_at\":\"2025-02-03T04:58:50.976971+00:00\",\"user_id\":\"56a9904f-fe57-4841-a3d0-bbf617a88fea\",\"name\":\"2.5.6.2.2.3.1 Implement Niche Adaptation System\",\"importance\":77,\"context\":\"Develop core niche adaptation mechanisms including dynamic radius adjustment, capacity scaling, and fitness-based niche boundary modification for optimal evolutionary algorithm performance.\",\"ai_context\":null,\"is_indexed\":false,\"status_text\":null,\"due_date\":\"2025-09-15T00:00:00+00:00\",\"status\":\"active\",\"kanban_column\":\"in-progress\",\"recurring_cadence\":null,\"background_agent_status\":\"paused\",\"last_worked_on\":null,\"recurrence\":null,\"completed_at\":null,\"search_indexed_at\":\"2025-04-05T23:33:00.629172+00:00\",\"search_updated_at\":null,\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"search_vector\":\"'2.5.6.2.2.3.1':1A 'adapt':4A,9B 'adjust':14B 'algorithm':27B 'base':20B 'boundari':22B 'capac':15B 'core':7B 'develop':6B 'dynam':12B 'evolutionari':26B 'fit':19B 'fitness-bas':18B 'implement':2A 'includ':11B 'mechan':10B 'modif':23B 'nich':3A,8B,21B 'optim':25B 'perform':28B 'radius':13B 'scale':16B 'system':5A\",\"deleted_at\":null,\"project_team_id\":null,\"assignees\":[],\"assignee_ids\":[],\"is_personal_project\":true,\"is_due_today_or_past\":false,\"sort_bucket\":3,\"due_date_date\":\"2025-09-15\",\"lex_key\":null},{\"id\":\"d1843583-6f2a-4882-9348-004857d1f3a3\",\"created_at\":\"2025-02-03T04:59:02.684278+00:00\",\"user_id\":\"56a9904f-fe57-4841-a3d0-bbf617a88fea\",\"name\":\"2.5.6.2.2.3.1.1 Implement Adaptive Boundary System\",\"importance\":76,\"context\":\"Develop core boundary adaptation mechanisms including dynamic threshold adjustment, niche border flexibility, and adaptive scaling for optimal niche separation in the evolutionary algorithm framework.\",\"ai_context\":null,\"is_indexed\":false,\"status_text\":null,\"due_date\":\"2025-09-15T00:00:00+00:00\",\"status\":\"active\",\"kanban_column\":\"in-progress\",\"recurring_cadence\":null,\"background_agent_status\":\"paused\",\"last_worked_on\":null,\"recurrence\":null,\"completed_at\":null,\"search_indexed_at\":\"2025-04-05T23:33:00.629172+00:00\",\"search_updated_at\":null,\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"search_vector\":\"'2.5.6.2.2.3.1.1':1A 'adapt':3A,9B,19B 'adjust':14B 'algorithm':28B 'border':16B 'boundari':4A,8B 'core':7B 'develop':6B 'dynam':12B 'evolutionari':27B 'flexibl':17B 'framework':29B 'implement':2A 'includ':11B 'mechan':10B 'nich':15B,23B 'optim':22B 'scale':20B 'separ':24B 'system':5A 'threshold':13B\",\"deleted_at\":null,\"project_team_id\":null,\"assignees\":[],\"assignee_ids\":[],\"is_personal_project\":true,\"is_due_today_or_past\":false,\"sort_bucket\":3,\"due_date_date\":\"2025-09-15\",\"lex_key\":null},{\"id\":\"d789e17e-9ff4-4bbf-8cf5-ec32ddb41506\",\"created_at\":\"2025-02-03T04:59:18.093161+00:00\",\"user_id\":\"56a9904f-fe57-4841-a3d0-bbf617a88fea\",\"name\":\"2.5.6.2.2.3.1.1.1 Implement Boundary Optimization System\",\"importance\":75,\"context\":\"Develop core boundary optimization mechanisms including dynamic threshold adjustment, adaptive scaling, and efficiency monitoring for optimal boundary management in the evolutionary algorithm framework.\",\"ai_context\":null,\"is_indexed\":false,\"status_text\":null,\"due_date\":\"2025-09-15T00:00:00+00:00\",\"status\":\"active\",\"kanban_column\":\"in-progress\",\"recurring_cadence\":null,\"background_agent_status\":\"paused\",\"last_worked_on\":null,\"recurrence\":null,\"completed_at\":null,\"search_indexed_at\":\"2025-04-05T23:33:00.629172+00:00\",\"search_updated_at\":null,\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"search_vector\":\"'2.5.6.2.2.3.1.1.1':1A 'adapt':15B 'adjust':14B 'algorithm':27B 'boundari':3A,8B,22B 'core':7B 'develop':6B 'dynam':12B 'effici':18B 'evolutionari':26B 'framework':28B 'implement':2A 'includ':11B 'manag':23B 'mechan':10B 'monitor':19B 'optim':4A,9B,21B 'scale':16B 'system':5A 'threshold':13B\",\"deleted_at\":null,\"project_team_id\":null,\"assignees\":[],\"assignee_ids\":[],\"is_personal_project\":true,\"is_due_today_or_past\":false,\"sort_bucket\":3,\"due_date_date\":\"2025-09-15\",\"lex_key\":null}],\"pagination\":{\"page\":1,\"page_size\":30,\"total_count\":18,\"total_pages\":1,\"has_next\":false,\"has_previous\":false,\"next_page\":null,\"previous_page\":null},\"due_today_or_overdue_count\":0},\"state\":{\"page\":1,\"page_size\":30,\"filters\":{\"project_id\":\"ea7b1ad5-fa90-4f63-9c54-7270399401a0\",\"status_filter\":[\"active\"]}}}"
+    },
+    "redirectURL": "",
+    "headersSize": -1,
+    "bodySize": -1,
+    "_transferSize": 3924,
+    "_error": null
+  },
+  "serverIPAddress": "216.24.57.7",
+  "startedDateTime": "2025-08-20T20:05:01.420Z",
+  "time": 453.9029999941704,
+  "timings": {
+    "blocked": 2.0350000002947635,
+    "dns": -1,
+    "ssl": -1,
+    "connect": -1,
+    "send": 0.471,
+    "wait": 448.863000001865,
+    "receive": 2.5339999920106493,
+    "_blocked_queueing": 1.0540000002947636
+  }
+}
